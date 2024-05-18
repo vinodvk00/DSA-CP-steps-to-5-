@@ -14,6 +14,8 @@ int main() {
             }
         }
         int ans = 0;
+
+        // check for the last row and last column
         for(int i = 0; i < n; i++) {
             if(v[i][m-1] == 'R') {
                 ans++;
