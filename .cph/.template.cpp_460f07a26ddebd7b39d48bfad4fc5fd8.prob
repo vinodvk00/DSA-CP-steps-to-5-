@@ -1,0 +1,1 @@
+{"name":"Local: template","url":"/workspaces/DSA-CP-steps-to-red/template.cpp","tests":[{"id":1716033364871,"input":"5\n1 7 2 11 15\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/DSA-CP-steps-to-red/template.cpp","group":"local","local":true}
